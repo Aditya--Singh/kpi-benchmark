@@ -1,0 +1,9 @@
+# Keep line endings right on both Linux and Windows checkouts
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.pdf binary
+*.png binary
+*.ico binary

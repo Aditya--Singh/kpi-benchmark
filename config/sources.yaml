@@ -1,0 +1,76 @@
+# Source registry: where each bank publishes its quarterly results decks.
+# The Scout agent reads every listing page, finds the PDF links that match `include`
+# (and not `exclude`), works out the quarter from the link text, the row/heading around it
+# or the URL, and hands the list to the Download agent.
+#
+# Matching is done on:  link text + title attribute + surrounding table row / list item + href.
+# If a site changes and a quarter is missed, add it under `manual_pdfs`, or simply drop the
+# PDF into  data/inbox/<BANK>/  and run the pipeline again.
+
+defaults:
+  respect_robots: true      # obey robots.txt
+  verify_ssl: true          # never disable unless the bank's certificate chain is broken
+  delay_sec: 1.5            # polite pause between requests to the same site
+  render_js: auto           # auto = use headless Chromium only if plain HTML shows no links (needs playwright)
+
+banks:
+  PNB:
+    name: Punjab National Bank
+    doc_type: analyst_presentation
+    tier: 2
+    listing_pages:
+      - https://pnb.bank.in/financials-current.html
+      - https://pnb.bank.in/financials-archives.html
+    include: ['analyst\s+presentation']
+    exclude: ['transcript', 'audio', 'video', 'hindi', 'intimation', 'invitation', 'concall', 'conference',
+              'pillar', 'press\s+release', 'roadshow', 'corporate\s+presentation', 'us\$', 'dollar']
+    period_from: [label, context, url]
+    manual_pdfs: []          # e.g.  - {url: "https://...", quarter: "Q2 FY27"}
+
+  SBI:
+    name: State Bank of India
+    doc_type: press_release
+    tier: 2
+    listing_pages:
+      - https://sbi.bank.in/web/investor-relations/reports
+      - {url: "https://sbi.bank.in/web/investor-relations/analyst-presentation", optional: true, doc_type: analyst_presentation}
+    include: ['press\s+release', 'analyst\s+presentation']
+    exclude: ['hindi', 'transcript', 'audio', 'webcast', 'calendar']
+    period_from: [label, context, url]
+    manual_pdfs: []
+
+  BOB:
+    name: Bank of Baroda
+    doc_type: analyst_presentation
+    tier: 2
+    listing_pages:
+      - https://bankofbaroda.bank.in/shareholders-corner/presentation-made-to-analyst
+    include: ['analyst\s+presentation', 'presentation[-\s]+(to|made)']
+    exclude: ['transcript', 'audio', 'video', 'media\s+(call|meet)', 'replay', 'conference\s+call']
+    period_from: [context, label, url]
+    manual_pdfs: []
+
+  CANARA:
+    name: Canara Bank
+    doc_type: analyst_presentation
+    tier: 2
+    listing_pages:
+      - https://www.canarabank.bank.in/pages/investor-presentation
+    include: ['/documents/d/guest/']
+    exclude: ['holiday', 'policy', 'terms', 'faq', 'green', 'chatbot', 'copyright', 'aadhaar', 'nach',
+              'booklet', 'roi-', 'disclosure', 'press-release']
+    period_from: [label]          # the table cell text is the period itself ("Sep25", "Jun26")
+    manual_pdfs: []
+
+  UNION:
+    name: Union Bank of India
+    doc_type: analyst_presentation
+    tier: 2
+    listing_pages:
+      - https://www.unionbankofindia.bank.in/en/common/financial-results
+      - https://www.unionbankofindia.bank.in/en/common/analyst-presentation-archives
+    include: ['presentation']
+    exclude: ['schedule', 'transcript', 'audio', 'press', 'financial\s+results\s+of', 'statements?\s+of\s+subsid',
+              'subsidiar', 'balance\s+sheet', 'intimation']
+    period_from: [label, context, url]
+    manual_pdfs: []

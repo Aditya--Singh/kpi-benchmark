@@ -1,0 +1,21 @@
+# Core web app
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.6
+python-multipart>=0.0.9
+SQLAlchemy>=2.0.25
+PyYAML>=6.0
+# Scraping and PDF reading
+httpx>=0.27
+beautifulsoup4>=4.12
+lxml>=5.0
+pdfplumber>=0.11
+# Report outputs (charts in Word reports are drawn with Pillow, which these already install)
+python-docx>=1.1
+python-pptx>=0.6.23
+openpyxl>=3.1
+
+# Optional extras, NOT required (setup.sh tries them and carries on if they are unavailable):
+#   matplotlib>=3.8        slightly nicer charts in Word reports
+#   playwright             only if a bank site starts needing JavaScript to list its PDFs
+#                          (pip install playwright && python -m playwright install chromium)

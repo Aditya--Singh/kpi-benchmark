@@ -1,0 +1,118 @@
+Performance Analysis
+Q1FY27
+===PAGE===
+Key Highlights
+Business Details (INR crore) Key Performance Drivers
+Jun 30, 2025 Jun 30, 2026 YOY (%)
+Domestic Deposits 12,04,283 13,81,535 14.7
+International Deposits 2,31,351 2,52,024 8.9
+Global Deposits 14,35,634 16,33,559 13.8
+Domestic Gross Advances 9,91,363 11,50,906 16.1
+International Advances 2,15,693 2,65,992 23.3
+Global Advances 12,07,056 14,16,898 17.4
+Total Business 26,42,690 30,50,457 15.4
+Key Highlights
+2.91 2.89 2.77 2.89 2.77
+Q1FY26 Q4FY26 Q1FY27 FY26 Q1FY27
+Net Interest Margin (%)
+4,541 5,616
+1,278
+20,021
+1,278
+Q1FY26 Q4FY26 Q1FY27 FY26 Q1FY27
+Net Profit (INR crore)
+1.03
+1.15
+0.25
+1.06
+0.25
+Q1FY26 Q4FY26 Q1FY27 FY26 Q1FY27
+Return on Assets (%)
+15.38
+17.29
+3.89
+16.30
+3.89
+Q1FY26 Q4FY26 Q1FY27 FY26 Q1FY27
+Return on Equity (%) #
+===PAGE===
+Financial Performance (INR crore)
+Q1FY26 Q1FY27 YoY (%)
+Net Interest Income 11,435 12,524 9.5
+Non-Interest Income 4,675 3,470 -25.8
+Operating Profit 8,236 8,127 -1.3
+Net Profit 4,541 1,278 -71.8
+GNPA Ratio (%) 2.28 1.99 (29 bps)
+NNPA Ratio (%) 0.60 0.50 (10 bps)
+Capital Adequacy Ratio 17.61% 16.30% (131 bps)
+===PAGE===
+Operating Performance
+Particulars
+(INR crore) Q1 FY26 Q4 FY26 Q1 FY27 YoY (%)
+Net Interest Income (NII) 11,435 12,494 12,524 9.5
+Operating Income 16,109 16,460 15,995 -0.7
+Operating Expenses 7,873 7,391 7,868 -0.1
+Operating Profit 8,236 9,069 8,127 -1.3
+Cost to Income Ratio (%) 48.87 44.90 49.19 32bps
+===PAGE===
+Deposits
+Particulars % share in Domestic Deposits in Jun'26
+(INR crore) Jun'25 Jun'26 YOY (%) Mar'26 Jun'26 QOQ (%)
+Domestic CASA Deposits 4,73,637 5,21,149 10.0 5,45,034 5,21,149 -4.4
+Domestic Deposits 12,04,283 13,81,535 14.7 14,01,290 13,81,535 -1.4
+Total Deposits 14,35,634 16,33,559 13.8 16,48,487 16,33,559 -0.9
+Domestic CASA(%) 39.33% 37.72% (161 bps) 38.90% 37.72% (118 bps)
+===PAGE===
+Strong Asset Quality
+Gross NPA & Net NPA Slippage Ratio & Credit Cost
+0.60 0.57 0.57
+0.45 0.50
+2.28
+2.16
+2.04
+1.89
+1.99
+-
+0.50
+1.00
+1.50
+2.00
+2.50
+Q1FY26 Q2FY26 Q3FY26 Q4FY26 Q1FY27
+NNPA (%) GNPA(%)
+===PAGE===
+Movement of NPAs
+Particulars
+(INR crore) Q1 FY26 Q4 FY26 Q1 FY27
+A. Opening Balance 27,835 27,399 27,059
+Closing Balance (Gross NPA) 27,572 27,059 28,150
+Net NPA 7,158 6,316 7,017
+Slippage Ratio (%) 1.16 0.89 0.91
+Credit cost (%) 0.55 0.76 0.29
+Gross NPA Ratio (%) 2.28 1.89 1.99
+Net NPA Ratio (%) 0.60 0.45 0.50
+Provision Coverage Ratio (Including TWO) (%) 93.18 93.94 93.28
+Provision Coverage Ratio (Excluding TWO) (%) 74.04 76.66 75.07
+===PAGE===
+Capital Adequacy
+Particulars (INR crore) Jun'25 Mar'26 Jun'26 Jun'26 (Consolidated)
+Common Equity Tier I Capital (CET 1) 1,21,215 1,36,295 1,40,428 1,50,434
+Tier I Capital 1,30,088 1,41,268 1,45,566 1,55,672
+14.12% 13.36% 12.45% 13.16% 13.90% 14.36%
+1.03%
+0.79%
+0.65% 0.48% 0.51% 0.50%
+2.46%
+2.39%
+2.19% 2.18% 1.89% 1.84%
+Jun'25 Sep'25 Dec'25 Mar'26 Jun'26 Consol Jun'26
+Tier II
+AT-1
+CET-1
+17.61%
+16.54% 15.29% 15.82% 16.30% 16.70%
+===PAGE===
+Balance Sheet and PL– Consolidated
+Particulars
+(INR crore) Q1FY26 Q1FY27 YOY (%)
+Profit after Tax 3,469 1,783 -48.6

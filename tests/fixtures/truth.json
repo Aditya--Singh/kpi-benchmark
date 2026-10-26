@@ -1,0 +1,123 @@
+{
+ "pnb_q2fy27.txt": {
+  "fy": 27,
+  "q": 2,
+  "values": {
+   "GLOBAL_BUSINESS": 3118434.0,
+   "GLOBAL_DEPOSITS": 1777240.0,
+   "GLOBAL_ADVANCES": 1341194.0,
+   "CASA_RATIO": 36.6,
+   "CD_RATIO": 75.5,
+   "NII": 11601.0,
+   "NIM": 2.58,
+   "OPERATING_PROFIT": 7532.0,
+   "NET_PROFIT": 5532.0,
+   "ROA": 1.05,
+   "ROE": 17.32,
+   "COST_TO_INCOME": 50.45,
+   "GNPA": 2.55,
+   "NNPA": 0.25,
+   "PCR": 97.32,
+   "SLIPPAGE": 0.77,
+   "CREDIT_COST": 0.25,
+   "CRAR": 17.95,
+   "CET1": 14.44
+  }
+ },
+ "sbi_q1fy27.txt": {
+  "fy": 27,
+  "q": 1,
+  "values": {
+   "GLOBAL_DEPOSITS": 6005805.0,
+   "GLOBAL_ADVANCES": 5047222.0,
+   "CASA_RATIO": 39.24,
+   "NII": 46992.0,
+   "NIM": 2.86,
+   "OPERATING_PROFIT": 33529.0,
+   "NET_PROFIT": 21121.0,
+   "ROA": 1.11,
+   "ROE": 17.87,
+   "GNPA": 1.47,
+   "NNPA": 0.38,
+   "PCR": 91.82,
+   "SLIPPAGE": 0.57,
+   "CREDIT_COST": 0.27,
+   "CRAR": 15.67,
+   "CET1": 12.89
+  }
+ },
+ "canara_q2fy27.txt": {
+  "fy": 27,
+  "q": 2,
+  "values": {
+   "GLOBAL_BUSINESS": 3072365.0,
+   "GLOBAL_DEPOSITS": 1697305.0,
+   "GLOBAL_ADVANCES": 1375060.0,
+   "CASA_RATIO": 29.0,
+   "CD_RATIO": 81.01,
+   "NII": 11005.0,
+   "NIM": 2.55,
+   "OPERATING_PROFIT": 8758.0,
+   "NET_PROFIT": 5175.0,
+   "ROA": 1.05,
+   "ROE": 18.47,
+   "COST_TO_INCOME": 47.8,
+   "GNPA": 1.33,
+   "NNPA": 0.3,
+   "PCR": 95.34,
+   "SLIPPAGE": 0.15,
+   "CREDIT_COST": 0.47,
+   "CRAR": 17.19,
+   "CET1": 12.8
+  }
+ },
+ "bob_q1fy27.txt": {
+  "fy": 27,
+  "q": 1,
+  "values": {
+   "GLOBAL_BUSINESS": 3050457.0,
+   "GLOBAL_DEPOSITS": 1633559.0,
+   "GLOBAL_ADVANCES": 1416898.0,
+   "CASA_RATIO": 37.72,
+   "NII": 12524.0,
+   "NIM": 2.77,
+   "OPERATING_PROFIT": 8127.0,
+   "NET_PROFIT": 1278.0,
+   "ROA": 0.25,
+   "ROE": 3.89,
+   "COST_TO_INCOME": 49.19,
+   "GNPA": 1.99,
+   "NNPA": 0.5,
+   "PCR": 93.28,
+   "SLIPPAGE": 0.91,
+   "CREDIT_COST": 0.29,
+   "CRAR": 16.3,
+   "CET1": 13.9
+  }
+ },
+ "union_q2fy27.txt": {
+  "fy": 27,
+  "q": 2,
+  "values": {
+   "GLOBAL_BUSINESS": 2475330.0,
+   "GLOBAL_DEPOSITS": 1319455.0,
+   "GLOBAL_ADVANCES": 1155876.0,
+   "CASA_RATIO": 34.93,
+   "CD_RATIO": 88.13,
+   "NII": 10583.0,
+   "NIM": 2.86,
+   "OPERATING_PROFIT": 8108.0,
+   "NET_PROFIT": 5537.0,
+   "ROA": 1.38,
+   "ROE": 17.21,
+   "COST_TO_INCOME": 46.78,
+   "GNPA": 2.42,
+   "NNPA": 0.42,
+   "PCR": 95.2,
+   "SLIPPAGE": 0.72,
+   "CREDIT_COST": 0.21,
+   "CRAR": 17.94,
+   "CET1": 16.05
+  }
+ }
+}

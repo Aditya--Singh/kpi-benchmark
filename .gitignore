@@ -1,0 +1,14 @@
+# Local environment and secrets - never commit
+.venv/
+.env
+
+# Runtime data: database, downloaded PDFs, reports, logs
+data/
+
+# Python and OS clutter
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+Thumbs.db
+*.log

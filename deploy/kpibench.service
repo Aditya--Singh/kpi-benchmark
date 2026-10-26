@@ -1,0 +1,19 @@
+# Optional: keep the app running after reboot.
+#   sudo cp deploy/kpibench.service /etc/systemd/system/
+#   sudo sed -i "s#/home/USER/pnb-kpi-bench#$(pwd)#; s#User=USER#User=$(whoami)#" /etc/systemd/system/kpibench.service
+#   sudo systemctl daemon-reload && sudo systemctl enable --now kpibench
+[Unit]
+Description=PNB KPI Peer Benchmarking
+After=network-online.target ollama.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=USER
+WorkingDirectory=/home/USER/pnb-kpi-bench
+ExecStart=/home/USER/pnb-kpi-bench/.venv/bin/python -m app.main
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

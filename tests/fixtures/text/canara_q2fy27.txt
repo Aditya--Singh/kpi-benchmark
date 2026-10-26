@@ -1,0 +1,128 @@
+Performance Highlights
+Global Business
+15.88%
+y-o-y
+30,72,365
+Net Profit
+8.40%
+y-o-y
+5,175
+CRAR
+17.19%
+y-o-y
+99 bps
+===PAGE===
+₹ in Crore
+Business Performance
+Parameters Sep'25 Mar'26 Jun'26 Sep'26
+Growth (%)
+Q-o-Q Y-o-Y
+Global Gross Business 2651322 2806226 2905066 3072365 5.76 15.88
+Domestic Gross Business 2476427 2598048 2680534 2812732 4.93 13.58
+Global Gross Advances 1151041 1237548 1293381 1375060 6.32 19.46
+Domestic Gross Advances 1081428 1161143 1207087 1264753 4.78 16.95
+Global Deposits 1500281 1568678 1611685 1697305 5.31 13.13
+Domestic Deposits 1394999 1436905 1473447 1547979 5.06 10.97
+Global C-D Ratio (%) 76.72 78.89 80.25 81.01 -- --
+===PAGE===
+Domestic Deposit Mix
+₹ in Crore
+Parameters Sep'25 Mar'26 Jun'26 Sep'26
+Growth (%)
+Q-o-Q Y-o-Y
+Saving Deposits 352195 366581 377245 385653 2.23 9.50
+Current Deposits 75920 62223 60401 63236 4.69 (16.71)
+CASA Deposits 428115 428804 437646 448889 2.57 4.85
+Term Deposit 966884 1008101 1035801 1099090 6.11 13.67
+Total Domestic Deposit 1394999 1436905 1473447 1547979 5.06 10.97
+Global Deposits* 1500281 1568678 1611685 1697305 5.31 13.13
+===PAGE===
+Financials at a Glance
+₹ in Crore
+Parameters
+Quarterly
+Sep'25 Mar'26 Jun'26 Sep'26
+Growth (%)
+Q-o-Q Y-o-Y
+Net Interest Income 9141 9808 10215 11005 7.73 20.39
+Total Interest Income 31544 31838 32957 35159 6.68 11.46
+Operating Profit 8588 6758 8636 8758 1.41 1.98
+Provisions 3814 2252 3780 3583 (5.21) (6.06)
+Net Profit 4774 4506 4856 5175 6.57 8.40
+===PAGE===
+8588 9119
+6758
+8636 8758
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+Operating Profit (₹ in Cr)
+93.59
+94.19 94.21
+94.76
+95.34
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+PCR (%)
+4774
+5155
+4506
+4856 5175
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+Net Profit (₹ in Cr) 2.35
+2.08
+1.84
+1.57
+1.33
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+Gross NPA (%)
+0.54
+0.45 0.43
+0.36
+0.30
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+Net NPA (%)
+Profitability & Asset Quality Performance
+===PAGE===
+(%)
+Key Ratios
+Ratios
+Sep'25 Mar'26 Jun'26 Sep'26
+Quarterly Cumulative Quarterly Cumulative Quarterly Cumulative Quarterly Cumulative
+Return on Assets 1.10 1.12 1.01 1.10 1.04 1.04 1.05 1.04
+Return on Equity/Net-worth 20.00 20.56 18.27 19.61 18.31 18.31 18.47 18.49
+Cost to Income 46.97 46.87 53.81 48.45 49.03 49.03 47.80 48.41
+CD Ratio 76.72 76.72 78.89 78.89 80.25 80.25 81.01 81.01
+NIM 2.50 2.52 2.54 2.51 2.52 2.52 2.55 2.53
+===PAGE===
+Asset Quality Ratios
+₹ in Crore
+Parameters Sep'25 Mar'26 Jun'26 Sep'26
+Gross NPA 27040 22740 20354 18299
+Gross NPA (%) 2.35 1.84 1.57 1.33
+Net NPA 6113 5209 4653 4053
+Net NPA (%) 0.54 0.43 0.36 0.30
+Provision Coverage Ratio (%) 93.59 94.21 94.76 95.34
+Credit Cost (%) (Annualised) 0.68 0.59 0.49 0.47
+Slippage Ratio (%) 0.19 0.24 0.15 0.15
+===PAGE===
+Capital Funds (Basel III)
+₹ in Crore Parameters Sep'25 Jun'26 Sep'26
+Tier I 111690 127932 132848
+Common Equity Tier I 95532 110079 112952
+Tier I (%) 14.28 15.00 15.05
+Common Equity Tier I (%) 12.21 12.91 12.80
+Tier II (%) 1.92 2.17 2.14
+Total (Tier I+II) % 16.20 17.17 17.19
+===PAGE===
+Guidance For March 2027 Vs Actuals For September 2026
+Parameters
+Guidance Actuals as on
+(31.03.2027) 30.09.2026
+Business Growth (Global) 10%-11% 15.88%
+CASA (Domestic CASA to Domestic Deposit) 30%-32% 29.00%
+NIM (Global)(Annualized) 2.50%-2.60% 2.53%
+Gross NPA (Global) 1.50% 1.33%
+Net NPA (Global) 0.40% 0.30%
+PCR (Global) 94.50% 95.34%
+Slippage Ratio (Global)(Annualized) 0.80% 0.58%
+Credit Cost (Global)(Annualized) 0.75% 0.47%
+Return on Equity (RoE) 16.50% 18.49%
+Return on Average Assets (RoA) 1.01%-1.05% 1.04%
